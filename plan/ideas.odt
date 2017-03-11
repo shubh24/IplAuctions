@@ -1,0 +1,23 @@
+    Risk Vs Return
+    Different kinds of formulas for performace
+    ANNs for prediction of future performance
+    Popularity of player vs valuation(advertising) --> Twitter following/response/sentiment
+
+    If match by match data not available --> do an year by year IPL performance prediction --> www.iplt20.com/teams/kolkata-knight-riders/squada/76/Piyush-Chawla/
+
+                  Will be affected by international performance as well
+                  Social media reaction to his performance
+
+Match by match analysis ( international t20s ) --> http://stats.espncricinfo.com/ci/engine/player/28235.html?class=3;template=results;type=batting;view=innings
+
+iplt20
+Inconsistency in year of purchase of player --> Search for the player--> Normalize his price according to money spent that auction. --> http://www.iplt20.com/playerauction/archive/2014
+
+    CBR(combined bowling rate) = Harmonic Mean(BowlingAvg,BowlingStrikeRate,BowlingEconomy)
+    Barr and Kantor measure = (s^alpha)*(r/m)^(1-alpha)
+
+
+Basically 2 approaches emerge:
+     1. Individual player's evaluation according to previous metrics. Then, find value for money. Plot Risk and comment on buyability of player
+     2. Get your own metrics ( difficult to perform because of not-so-rich dataset).
+     3. (Later) Team's strategy to win --> which attributes win a match --> find accordingly fitting players
